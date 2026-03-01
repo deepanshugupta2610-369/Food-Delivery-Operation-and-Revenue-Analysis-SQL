@@ -162,12 +162,14 @@ This analysis enables business stakeholders to:
 
 <br>
 
+⚠️ Note: This project is for educational and analytical purposes only and is not affiliated with Swiggy 
 ## 🧠 Author  
 **Deepanshu Gupta**  
 📌 Data Analytics | SQL | Business Intelligence | Dimensional Modelling  
 Linkedin - https://www.linkedin.com/in/deepanshu-gupta-3ab3861b8/
 
 <br>
+
 
 
 

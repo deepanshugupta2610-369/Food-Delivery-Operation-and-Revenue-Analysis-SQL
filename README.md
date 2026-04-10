@@ -1,4 +1,4 @@
-# 🍔 Swiggy Sales Analysis using SQL & Dimensional Modelling  
+# 🍔 Swiggy Sales Opeartion and Revenue Analysis using SQL & Dimensional Modelling  
 
 ## 📌 Project Overview  
 This project performs an **enterprise-grade SQL Sales Analysis** on Swiggy-like food delivery data using a **Dimensional Modelling approach (Star Schema)**.  
